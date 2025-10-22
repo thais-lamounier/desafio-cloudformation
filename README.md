@@ -100,6 +100,6 @@ Durante o estudo e construção deste desafio, pude reforçar conceitos como:
 
 **📚 Referências**
 
-**Documentação Oficial AWS CloudFormation**
-**Guia de Markdown do GitHub**
-**Formação GitHub Certification - GitBook**
+- Documentação Oficial AWS CloudFormation
+- Guia de Markdown do GitHub
+- Formação GitHub Certification - GitBook
