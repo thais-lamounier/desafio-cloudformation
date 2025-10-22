@@ -83,10 +83,10 @@ Outputs:
   InstanceId:
     Description: "ID da instância criada"
     Value: !Ref EC2Instance
-
+```
 ---
 
-##💡 Insights e Aprendizados
+**💡 Insights e Aprendizados**
 
 Durante o estudo e construção deste desafio, pude reforçar conceitos como:
 
@@ -98,11 +98,8 @@ Durante o estudo e construção deste desafio, pude reforçar conceitos como:
 
 - O papel do CloudFormation como ferramenta fundamental em ambientes DevOps.
 
-## 📚 Referências
+**📚 Referências**
 
-Documentação Oficial AWS CloudFormation
-
-Guia de Markdown do GitHub
-
-Formação GitHub Certification - GitBook
-
+**Documentação Oficial AWS CloudFormation**
+**Guia de Markdown do GitHub**
+**Formação GitHub Certification - GitBook**
