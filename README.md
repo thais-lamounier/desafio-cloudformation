@@ -83,19 +83,22 @@ Outputs:
   InstanceId:
     Description: "ID da instância criada"
     Value: !Ref EC2Instance
-💡 Insights e Aprendizados
+
+---
+
+##💡 Insights e Aprendizados
 
 Durante o estudo e construção deste desafio, pude reforçar conceitos como:
 
-Importância do versionamento de infraestrutura;
+- Importância do versionamento de infraestrutura;
 
-Benefícios da reprodutibilidade e da automação no provisionamento de ambientes;
+- Benefícios da reprodutibilidade e da automação no provisionamento de ambientes;
 
-Clareza e manutenção facilitada por meio de documentação estruturada em Markdown;
+- Clareza e manutenção facilitada por meio de documentação estruturada em Markdown;
 
-O papel do CloudFormation como ferramenta fundamental em ambientes DevOps.
+- O papel do CloudFormation como ferramenta fundamental em ambientes DevOps.
 
-📚 Referências
+## 📚 Referências
 
 Documentação Oficial AWS CloudFormation
 
