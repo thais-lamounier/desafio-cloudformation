@@ -1,7 +1,7 @@
 # 🚀 Desafio: Infraestrutura Automatizada com AWS CloudFormation
 
 ## 🧩 Sobre o Projeto
-Este repositório faz parte do desafio proposto pela **DIO (Digital Innovation One)**, com o objetivo de colocar em prática os conceitos de **Infraestrutura como Código (IaC)** utilizando o **AWS CloudFormation**.  
+Este repositório faz parte do desafio proposto pela **DIO**, com o objetivo de colocar em prática os conceitos de **Infraestrutura como Código (IaC)** utilizando o **AWS CloudFormation**.  
 
 O propósito principal é **automatizar a criação de recursos na AWS**, aplicando boas práticas de versionamento e documentação no **GitHub**.
 
